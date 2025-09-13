@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="titulo">Seja Bem Vindo ao Nosso App</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="viagem">Viagem</string>
+    <string name="calcular">Calcular</string>
+    <string name="somar_numeros">Somar Numeros</string>
+    <string name="subtrair_numeros">Subtrair Numeros</string>
+    <string name="multiplicar_numeros">Multiplicar Numeros</string>
+    <string name="dividir_numeros">Dividir Numeros</string>
+</resources>
